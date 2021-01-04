@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Uniswap",
+    "picture": "images/uniswap.png",
+    "resume": 30,
+    "products": "Lending Pool"
+  },
+  {
+    "id": 1,
+    "name": "MarkerDAO",
+    "picture": "images/makerdao.png",
+    "resume": 4,
+    "products": "Swap"
+  },
+  {
+    "id": 2,
+    "name": "Compound",
+    "picture": "images/compund.png",
+    "resume": 2,
+    "products": "Swap"
+  }
+]

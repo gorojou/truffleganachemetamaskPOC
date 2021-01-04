@@ -1,5 +1,5 @@
-var Adoption = artifacts.require("Adoption");
+var defiProtocol = artifacts.require("defiProtocol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Adoption);
+  deployer.deploy(defiProtocol);
 };
